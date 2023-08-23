@@ -5,7 +5,7 @@ Le piattaforme utilizzate sono:
 POCKET CODE per:
 - Pikajones
 - Le avventure di Dory
-- Un mondo senza colori
+- Un mondo senza colori (work in progress)
 
 SCRATCH per
-- Jekyll & Hyde
+- Jekyll & Hyde (work in progress)
