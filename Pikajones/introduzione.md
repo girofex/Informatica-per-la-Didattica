@@ -1,4 +1,5 @@
 [Link allo scheletro](https://share.catrob.at/pocketcode/project/b3972d4a-4df8-444f-a45e-d4d686e4eb1e)
+
 [Link alla soluzione](https://share.catrob.at/app/project/812cb58e-5d87-43f1-a565-21b087231df5)
 
 ![Diapositiva1](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/c781e6f0-d104-4a87-a03d-439134afdbc1)
