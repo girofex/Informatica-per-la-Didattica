@@ -1,4 +1,4 @@
-![Diapositiva1](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/a513f778-1c85-4e3f-bd0f-97a507c7c641)
+![Diapositiva!](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/534c8614-a500-4638-a466-42e351c665d9)
 ![Diapositiva2](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/8e6b9cd3-1804-44ce-a5b7-8999ae6d6266)
 ![Diapositiva3](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/ff8b79ac-75e7-4033-8ccd-b3b8b5a8dd76)
 ![Diapositiva4](https://github.com/girofex/Informatica-per-la-Didattica/assets/72737984/7cc8652e-0b10-4312-a47a-9cef05701766)
